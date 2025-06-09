@@ -1,0 +1,2 @@
+# Rabia-shopping-store
+An elegant and responsive full-stack e-commerce website for selling clothes online. Built with Next.js, Tailwind CSS, and TypeScript, the platform allows customers to browse products, view detailed dress info with sizes and colors, add items to a cart, and place orders. Admins can manage products and view orders through a secure dashboard. Includes authentication for both customers and admins.
